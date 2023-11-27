@@ -1,0 +1,14 @@
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\bin\Debug\net8.0\Triangleasterisco.exe
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\bin\Debug\net8.0\Triangleasterisco.deps.json
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\bin\Debug\net8.0\Triangleasterisco.runtimeconfig.json
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\bin\Debug\net8.0\Triangleasterisco.dll
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\bin\Debug\net8.0\Triangleasterisco.pdb
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\obj\Debug\net8.0\Triangleasterisco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\obj\Debug\net8.0\Triangleasterisco.AssemblyInfoInputs.cache
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\obj\Debug\net8.0\Triangleasterisco.AssemblyInfo.cs
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\obj\Debug\net8.0\Triangleasterisco.csproj.CoreCompileInputs.cache
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\obj\Debug\net8.0\Triangleasterisco.dll
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\obj\Debug\net8.0\refint\Triangleasterisco.dll
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\obj\Debug\net8.0\Triangleasterisco.pdb
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\obj\Debug\net8.0\Triangleasterisco.genruntimeconfig.cache
+C:\Users\guasc\Documents\DAW\Programació\C#\Triangleasterisco\obj\Debug\net8.0\ref\Triangleasterisco.dll

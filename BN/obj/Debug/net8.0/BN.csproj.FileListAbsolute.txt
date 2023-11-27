@@ -1,0 +1,14 @@
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\bin\Debug\net8.0\BN.exe
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\bin\Debug\net8.0\BN.deps.json
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\bin\Debug\net8.0\BN.runtimeconfig.json
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\bin\Debug\net8.0\BN.dll
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\bin\Debug\net8.0\BN.pdb
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\obj\Debug\net8.0\BN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\obj\Debug\net8.0\BN.AssemblyInfoInputs.cache
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\obj\Debug\net8.0\BN.AssemblyInfo.cs
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\obj\Debug\net8.0\BN.csproj.CoreCompileInputs.cache
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\obj\Debug\net8.0\BN.dll
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\obj\Debug\net8.0\refint\BN.dll
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\obj\Debug\net8.0\BN.pdb
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\obj\Debug\net8.0\BN.genruntimeconfig.cache
+C:\Users\guasc\Documents\DAW\Programació\C#\BN\obj\Debug\net8.0\ref\BN.dll
